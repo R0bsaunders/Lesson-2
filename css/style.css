@@ -20,7 +20,11 @@ a{
 h1{
     color: #eee;
     font-size: 28px;
-    margin: 0 auto;
+}
+
+#headerh1{
+    margin: 0;
+    padding: 0;
 }
 
 h2{
